@@ -2,7 +2,7 @@ const section = document.querySelector('section');
 	function carregapagina(){
 	
 	
-	fetch('https://lucasvmendes.github.io/SiteRocket/JSON/projetos.json')
+	fetch('https://lucasvmendes.github.io/SiteRocketD/JSON/projetos.json')
    .then(response => {
        if (!response.ok) {
            throw new Error("HTTP error " + response.status);
@@ -78,7 +78,7 @@ const section = document.querySelector('section');
    })
    
    
-   fetch('https://lucasvmendes.github.io/SiteRocket/JSON/paginas.json')
+   fetch('https://lucasvmendes.github.io/SiteRocketD/JSON/paginas.json')
    .then(response => {
        if (!response.ok) {
            throw new Error("HTTP error " + response.status);
