@@ -3,7 +3,7 @@
 	function carregapagina(){
 	// Corpo da página 
 	// Consulta o arquivo json disponibilizado no link e verifica o status 
-	fetch('https://lucasvmendes.github.io/SiteRocket/JSON/historia.json')
+	fetch('https://lucasvmendes.github.io/SiteRocketD/JSON/historia.json')
    .then(response => {
        if (!response.ok) {
            throw new Error("HTTP error " + response.status);
@@ -101,7 +101,7 @@
    })
 	
 // Menu principal 
-   fetch('https://lucasvmendes.github.io/SiteRocket/JSON/paginas.json')
+   fetch('https://lucasvmendes.github.io/SiteRocketD/JSON/paginas.json')
    .then(response => {
        if (!response.ok) {
            throw new Error("HTTP error " + response.status);
