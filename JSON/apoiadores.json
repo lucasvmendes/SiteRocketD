@@ -1,0 +1,49 @@
+{
+  "patrocinios": 
+  [
+    {
+      "titulopagina" : "Apoio",
+      "textoabaixotitulo" : "Nossa equipe agradece o apoio de todas as empresas e entidades que acreditam no impacto dos nossos projetos.",
+      "patrocinador" : "Starrett",
+      "paragrafos" : 
+      [
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. "
+      ],
+      "imagem" : "Images/Starrett.png",
+      "direcionapagina" : "https://www.starrett.com.br"
+    },
+    {
+      "patrocinador" : "3nity",
+      "paragrafos" : 
+      [
+        "Estes são os projetos.",
+        "Sed congue sit amet enim at placerat.",
+        "Vivamus vitae magna vitae metus varius euismod at sit amet nunc."
+      ],
+      "imagem" : "Images/3nity.png",
+      "direcionapagina" : "https://www.3nity.com.br"
+    },
+    {
+      "patrocinador" : "TEC-CI",
+      "paragrafos" : 
+      [
+        "Estes são os projetos2.",
+        "Sed congue sit amet enim at placerat.",
+        "Vivamus vitae magna vitae metus varius euismod at sit amet nunc."
+      ],
+      "imagem" : "Images/TEC-CI.png",
+      "direcionapagina" : "https://www.TEC-CI.com.br"
+    }, 
+    {
+      "patrocinador" : "Kaizen House",
+      "paragrafos" : 
+      [
+        "Estes são os projetos2.",
+        "Sed congue sit amet enim at placerat.",
+        "Vivamus vitae magna vitae metus varius euismod at sit amet nunc."
+      ],
+      "imagem" : "Images/Kaizen_House.png",
+      "direcionapagina" : "https://www.kaizenhouse.com.br"
+    }
+  ]
+}

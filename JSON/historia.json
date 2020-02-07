@@ -1,0 +1,35 @@
+{
+  "historia": 
+  [
+    {
+      "imagem" : "Images/EquipeUFABC.jpg",
+      "textoimagem" : 
+      [
+	"Foguetes são capazes de preencher a curiosidade humana para ver até onde podemos chegar, além de nos mostrar a beleza do cosmos e de como a natureza funciona."
+      ],
+      "titulo" : "HISTÓRIA",
+      "paragrafos" : 
+      [
+        "Antes mesmo de formar seus primeiros engenheiros aeroespaciais, a UFABC já contava, no final de 2009, com uma divisão de foguetes formada por três de seus alunos, que se conheceram através de uma rede social. Na época, o trio fez uma proposta ao então presidente da equipe de Aerodesign e, assim, criou-se o grupo que viria a se chamar, mais tarde, UFABC Rocket Design. Ambos formaram, então, o Grupo de Pesquisa e Desenvolvimento Aeroespacial.",
+	"Já em janeiro de 2010, a equipe concluiu a produção de três motores e realizou, com sucesso, seus testes estáticos. Novos alunos se juntaram ao grupo e, com eles, iniciou-se o projeto Liberty, que visava capacitá-los, além de avançar no conhecimento de motores e certificar produtos aeroespaciais.",
+        "Era agosto quando o projeto foi concluído e, assim, a equipe deu início à produção do Boitatá I, foguete de classe J (impulso entre 640 e 1280 N.s) que tinha a pretensão de atingir a marca de um quilômetro de altitude. Infelizmente, diversos problemas atrasaram seu lançamento, que só veio a acontecer em julho de 2013. E foi assim que a Universidade Federal do ABC assistiu ao lançamento do seu primeiro foguete experimental.",
+	"Não demorou até que o Boitatá I tivesse um sucessor – Boitatá II – que buscou aprimorar tecnologicamente o primeiro projeto. Novas complicações impediram seu sucesso e seu lançamento não chegou a ocorrer, mas seu motor foi testado estaticamente no I Festival de Minifoguetes de Curitiba, organizado pela UFPR.",
+	"O ano de 2014 terminava quando mais uma leva de alunos passou a compor a equipe. Assim, focando no festival já mencionado, dois novos foguetes começaram a ser produzidos, sendo um de Classe A (entre 1,26 a 2,5 N.s), e um de Classe E (de 20 a 40 N.s). O primeiro deles, Aimoré, teve sua estrutura totalmente feita em impressora 3D. Já o segundo, Eirapuã, teve sua estrutura montada com fibras de carbono.",
+	"Com seus sistemas de aviônica embarcada e seus combustíveis – nitrato de potássio e sacarose – preparados juntamente com professores e técnicos da Universidade, ambos os foguetes obtiveram sucesso em seus lançamentos. O Eirapuã, inclusive, foi premiado com a primeira colocação em sua categoria, que disputou ao lado de nomes como UFPR, UFSC e UnB, em abril de 2015.",
+	"Neste ano, também, o projeto Boitatá foi reativado. Por já estar consolidado, ele foi escolhido para testar novos sistemas de aviônica e recuperação com segurança. Seu lançamento foi feito há pouco mais de dois meses. Com sua velocidade inicial de cerca de 650 km/h, o Boitatá X chegou a incríveis 1000 metros de altitude.",
+	"Além do Boitatá, a equipe também aproveitou a nova turma de membros de 2015 para produzir dois minifoguetes (Eirapuãs II A e B) para o mesmo festival de seu antecessor. Os dois já estão sendo testados e serão lançados em abril de 2016.",
+	"Este ano trouxe, ainda, a Cobruf – Competição Brasileira Universitária de Foguetes, – idealizada por alunos da própria UFABC, com participação de equipes do ITA, UnB, UFMG e diversas outras universidades. Em sua primeira edição, a ser realizada em dezembro, as equipes mais experientes na área lançarão um foguete padrão que terá sido replicado pelas equipes menos experientes a partir de um manual.",
+	"Recentemente, também, iniciou-se um projeto de extensão em parceria com o Astroem, no qual foi feita a tutoria de estudantes da EE João Paulo II, de Mauá, na produção de foguetes de garrafa PET. Para tal, abriu-se uma campanha de arrecadação de fundos na internet.",
+	"Hoje, a UFABC Rocket Design conta com alunos de diversos cursos da graduação, inclusive das áreas de humanas, e é auxiliada por professores como Marina Sparvoli de Medeiros, que participa ativamente dos nossos projetos, intermediando-os com a Universidade. Graças a ela e a vários outros colaboradores, continuamos sonhando em levar o nome da UFABC a competi ções como a Intercollegiate Rocket Engineering Competition, atualmente a maior do mundo. Graças a eles, continuamos sonhando com altitudes muito além dos 1080 metros."
+      ],
+      "fotos" :
+      [
+	"Images/AngraUFABC.jpg",
+	"Images/EquipeNaSAC.jpg",
+	"Images/EquipeLASC.jpg",
+	"Images/TupaSAC.jpg",
+	"Images/AngraSAC.jpg"
+      ]
+    }
+  ]
+}

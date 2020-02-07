@@ -1,0 +1,148 @@
+{
+  "projetos": 
+  [
+    {
+      "titulopagina" : "Projetos",
+      "textoabaixotitulo" : "Nesta página você encontra todos os dados, informações técnicas e imagens de cada um dos nossos projetos, desde a Missão Liberty, em 2010, até o Angra, de 2019.",
+      "nome" : "ANGRA",
+      "paragrafos" : 
+      [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+      ],
+      "patch" : "Images/PatchAngra.png",
+      "objetivo" : "Competição",
+      "apogeu" : "2517 m",
+      "inicio" : "Janeiro de 2018",
+      "termino" : "Agosto de 2019"
+    },
+    {
+      "nome" : "HÓRUS",
+      "paragrafos" : 
+      [
+      "",
+      "",
+      "",
+      "",
+      ""
+      ],
+      "patch" : "Images/PatchHorus.png",
+      "objetivo" : "Experimental",
+      "apogeu" : "500 m",
+      "inicio" : "Julho de 2017",
+      "termino" : "Julho de 2018"
+    },
+    {
+      "nome" : "TUPÃ",
+      "paragrafos" : 
+      [
+      "",
+      "",
+      "",
+      "",
+      ""
+      ],
+      "patch" : "Images/PatchTupa.png",
+      "objetivo" : "Competição",
+      "apogeu" : " - ",
+      "inicio" : "Agosto de 2016",
+      "termino" : "Junho de 2017"
+    },
+	{
+      "nome" : "Boitatá HI",
+      "paragrafos" : 
+      [
+      "",
+      "",
+      "",
+      "",
+      ""
+      ],
+      "patch" : "Images/PatchBoitataHI.png",
+      "objetivo" : "Competição",
+      "apogeu" : " - ",
+      "inicio" : "Agosto de 2016",
+      "termino" : "Junho de 2017"
+    },
+    {
+      "nome" : "BOITATÁ X",
+      "paragrafos" : 
+      [
+      "A fim de testar novos sistemas, a equipe resolveu retomar o projeto Boitatá em agosto de 2015. Aproveitando grande parte do projeto do Boitatá II, foram necessários apenas alguns poucos ajustes para sua finalização.",
+      "Por ser um projeto já consolidado, ele foi a escolha ideal para testar as novas tecnologias e capacitar alguns dos novos membros que ainda não tinham se envolvido com um foguete desse porte.",
+      "Dessa vez, o objetivo inicial do projeto Boitatá finalmente foi alcançado, já que o Boitatá X chegou a sonhados 1080 metros. Lançado em setembro de 2015 também no Centro de Estudos do Universo, em Brotas, o Boitatá X foi o primeiro foguete da UFABC Rocket Design a ter seu lançamento transmitido ao vivo pela internet.",
+      "Com uma massa aproximada de 4 kg, sua velocidade chegou a 650 km/h, superando todos os outros lançamentos até então. Isso mostra que as melhorias planejadas para o Boitatá II e os novos sistemas do Boitatá X obtiveram, de fato, grande sucesso."
+      ],
+      "patch" : "Images/PatchBoitataX.png",
+      "objetivo" : "Experimental",
+      "apogeu" : "1080 m",
+      "inicio" : "Agosto de 2015",
+      "termino" : "Setembro de 2015"
+    },
+    {
+      "nome" : "AIMORÉ E EIRAPUÃ",
+      "paragrafos" : 
+      [
+        "Depois de conhecer o Festival de Minifoguetes de Curitiba, a UFABC Rocket Design resolveu criar foguetes que pudessem participar efetivamente da competição. Assim, surgiram os projetos Aimoré e Eirapuã, responsáveis pelo desenvolvimento de um foguete classe A (impulso entre 1,26 e 2,50 N.s) e outro de classe E (20 a 40 N.s), respectivamente. Juntos, eles formaram a Missão Curitiba.",
+        "Ambos os foguetes mantiveram o mesmo propelente dos projetos anteriores, KNO3 99% + sacarose pura, preparados com o auxílio dos técnicos Bruno Gastaldo e Felipe Torres e da professora Marina Sparvoli nos laboratórios da Universidade. Em relação à aviônica, ambos os foguetes levaram uma versão simplificada do que teria o Boitatá II. Desta vez, a eletrônica era composta apenas por um barômetro e um Arduino Mini.",
+        "Quanto à estrutura, houve divergências. Enquanto o Aimoré foi feito totalmente de ABS, impresso em 3D em parceria com o projeto Dinama do professor Segundo Nilo, o Eirapuã teve sua estrutura feita em fibra de carbono, exceto sua coifa, feita de massa plástica. O Aimoré, inclusive, acabou ganhando uma menção honrosa de inovação pelo uso do ABS.",
+        "Outra diferença entre os projetos está em seus motores. O Aimoré teve seu motor feito também de ABS, com proteção térmica de silicato de sódio. Já o motor do Eirapuã foi feito com um tubo de PVC. Sua tubeira, no entando, foi feita de durepox.",
+        "A primeira competição de fato da UFABC Rocket Design terminou muito bem. O Eirapuã não deixou barato para os concorrentes e conquistou o primeiro lugar em sua categoria, apogeu máximo, enchendo a equipe de orgulho e deixando altas expectativas para a próxima edição do festival."
+      ],
+      "patch" : "Images/PatchAimore.png",
+      "objetivo" : "Competição",
+      "apogeu" : "438 m (Eirapuã)",
+      "inicio" : "Agosto de 2014",
+      "termino" : "Abril de 2015"
+    },
+    {
+      "nome" : "BOITATÁ II",
+      "paragrafos" : 
+      [
+        "Tendo seu início em fevereiro de 2014, o Boitatá II foi uma tentativa de aprimorar tecnologicamente seu antecessor, corrigindo todos os possíveis erros do Boitatá I identificados em sua análise pós-voo.",
+        "Na área de recuperação, por exemplo, a abertura de uma antiga porta lateral foi substituída pela ejeção da ogiva. Já na aviônica, foram implementados giroscópio, magnetômetro, barômetro e acelerômetro.",
+        "A equipe de estrutura, por sua vez, optou por retirar o conjunto de empenas que ficava no meio do foguete, além de ajustar o conjunto da base objetivando melhor desempenho aerodinâmico. Por fim, o sistema de propulsão permaneceu praticamente inalterado. Para o lançamento do Boitatá II, foi desenvolvido um novo sistema de ignição que, de tão que ficou, foi utilizado em todos os lançamentos da equipe até 2015.",
+        "Infelizmente, porém, esse sistema serviu apenas para a realização de um teste estático do motor do foguete durante o I Festival de Minifoguetes de Curitiba, em abril de 2014. Isso porque, com a saída de diversos membros que seguiram seus caminhos com o programa Ciência Sem Fronteiras, o projeto do foguete propriamente dito acabou sendo abandonado.",
+        "Ainda assim, essa foi a primeira passagem da UFABC Rocket Design em uma competição de foguetes. E, como se não bastasse, o Boitatá II também foi exposto no estande da equipe na II Semana das Engenharias da UFABC."
+      ],
+      "patch" : "Images/PatchBoitata2.png",
+      "objetivo" : "Experimental",
+      "apogeu" : " - ",
+      "inicio" : "Fevereiro de 2014",
+      "termino" : "Abril de 2014"
+    },
+    {
+      "nome" : "Boitatá I",
+      "paragrafos" : 
+      [
+        "O Boitatá I foi o primeiro projeto de um foguete completo da UFABC Rocket Design, contando com sistemas de propulsão, aviônica, recuperação e estrutura totalmente desenvolvidos pela equipe.",
+        "Para ser lançado no Centro de Estudos do Universo, em Brotas/SP, o Boitatá I teve que atender uma série de exigências técnicas, como cálculo de raio de segurança, sistemas de combate de incêndio e toda a estrutura oferecida pelo próprio CEU.",
+        "Pela primeira vez, foi feita uma estrutura de fibra de carbono, graças à parceria recém firmada com a ALLTEC Materiais Compostos. Dentre as novidades do foguete, estavam um sistema de eletrônica embarcada (feito com Arduino e servomotor) e um paraquedas de 1,3 m de diâmetro ejetado por molas.",
+        "Além disso, o combustível usado no motor do Boitatá I foi KNSU, replicado e testado pelo projeto Liberty. Antes do lançamento, que ocorreu em 29 de junho de 2013, foi feito um estudo fluodinâmico computacional (CFD). Por fim, o Boitatá I também foi destaque na I Semana das Engenharias da UFABC, tendo sido exposto no estande da equipe."
+      ],
+      "patch" : "Images/PatchBoitata1.png",
+      "objetivo" : "Experimental",
+      "apogeu" : "1.000m",
+      "inicio" : "Outubro de 2012",
+      "termino" : "Junho de 2013"
+    },
+    {
+      "nome" : "LIBERTY",
+      "paragrafos" : 
+      [
+        "O primeiro projeto da UFABC Rocket Design, iniciado logo após a criação da equipe em 2010, tinha o objetivo de obter conhecimentos para a fabricação de motores-foguete, principalmente a fabricação e os processos de combustíveis e as estruturas dos motores: casings, bulkheads e tubeiras. Ao mesmo tempo, a equipe desenvolveu uma série de equipamentos necessários para futuros possíveis lançamentos, tais como instrumentos de motores com células de carga, sistema de ignição e uma caixa para selagem de compósitos.",
+        "Grande parte da base teórica do projeto foi retirada do livro 'Rocket Propulsion Elements', do autor George P. Sutton. Nossos experimentos, por sua vez, tiveram seus fundamentos técnicos provenientes dos estudos de Richard Nakka, cujas práticas são referências mundiais na área e, por isso, são utilizadas também por outras grandes equipes universitárias de Rocket Design. Todos os estudos do projeto Liberty culminaram na produção do Boitatá I, o primeiro foguete da UFABC Rocket Design."
+      ],
+      "patch" : "Images/PatchLiberty.png",
+      "objetivo" : "Aprendizado",
+      "apogeu" : " - ",
+      "inicio" : "Janeiro de 2010",
+      "termino" : "Outubro de 2012"
+    }
+  ]
+}
