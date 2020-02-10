@@ -7,7 +7,7 @@
       "patrocinador" : "Starrett",
       "paragrafos" : 
       [
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. "
+      "Empresa apoiadora."
       ],
       "imagem" : "Images/Starrett.png",
       "direcionapagina" : "https://www.starrett.com.br"
@@ -16,9 +16,7 @@
       "patrocinador" : "3nity",
       "paragrafos" : 
       [
-        "Estes são os projetos.",
-        "Sed congue sit amet enim at placerat.",
-        "Vivamus vitae magna vitae metus varius euismod at sit amet nunc."
+        "Empresa apoiadora."
       ],
       "imagem" : "Images/3nity.png",
       "direcionapagina" : "https://www.3nity.com.br"
@@ -27,9 +25,7 @@
       "patrocinador" : "TEC-CI",
       "paragrafos" : 
       [
-        "Estes são os projetos2.",
-        "Sed congue sit amet enim at placerat.",
-        "Vivamus vitae magna vitae metus varius euismod at sit amet nunc."
+        "Empresa apoiadora."
       ],
       "imagem" : "Images/TEC-CI.png",
       "direcionapagina" : "https://www.TEC-CI.com.br"
@@ -38,9 +34,7 @@
       "patrocinador" : "Kaizen House",
       "paragrafos" : 
       [
-        "Estes são os projetos2.",
-        "Sed congue sit amet enim at placerat.",
-        "Vivamus vitae magna vitae metus varius euismod at sit amet nunc."
+        "Empresa apoiadora."
       ],
       "imagem" : "Images/Kaizen_House.png",
       "direcionapagina" : "https://www.kaizenhouse.com.br"
