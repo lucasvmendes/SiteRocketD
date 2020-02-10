@@ -59,8 +59,8 @@ const section = document.querySelector('section');
 		myImg.src = projetos[i].patch;
 		myPara2.textContent = "Nome: " + projetos[i].nome;
 		myPara3.textContent = "Objetivo: " + projetos[i].objetivo;
-		myPara4.textContent = "Início: " + projetos[i].inicio;
-		myPara5.textContent = "Término: " + projetos[i].termino;
+		myPara4.textContent = projetos[i].inicio;
+		myPara5.textContent = projetos[i].termino;
 		myPara6.textContent = "Apogeu: " + projetos[i].apogeu;
 		myDiv3.appendChild(myImg);
 		myDiv3.appendChild(myPara2);
@@ -106,7 +106,7 @@ const section = document.querySelector('section');
 	myLabel.setAttribute("for","bt_menu");
 	for(var i = 0; i < paginas.length; i++)
 	{
-		if(paginas[i].topico.toString() == "Início")
+		if(i == 0)
 		{
 			myUlImg.src = paginas[i].imagem;
 			var direcionamento = "location = ' " + paginas[i].direcionapagina + " ' ";
