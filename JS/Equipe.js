@@ -130,7 +130,7 @@
 	myLabel.setAttribute("for","bt_menu");
 	for(var i = 0; i < paginas.length; i++)
 	{
-		if(paginas[i].topico.toString() == "Início")
+		if(i == 0)
 		{
 			myUlImg.src = paginas[i].imagem;
 			var direcionamento = "location = ' " + paginas[i].direcionapagina + " ' ";
