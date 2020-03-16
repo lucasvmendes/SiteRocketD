@@ -11,13 +11,12 @@
       "direcionapagina" : "index.html"
     },
     {
-      "topico" : "Teste",
+      "topico" : "Historia",
       "paragrafos" : 
       [
-        "UFABC Rocket Design é uma equipe formada por estudantes da Universidade Federal do ABC com o objetivo de projetar e desenvolver foguetes experimentais. Equipe integrante do Grupo de Pesquisa e Desenvolvimento Aeroespacial (GPDA).",
-      "Escrevo"
+        "UFABC Rocket Design é uma equipe formada por estudantes da Universidade Federal do ABC com o objetivo de projetar e desenvolver foguetes experimentais. Equipe integrante do Grupo de Pesquisa e Desenvolvimento Aeroespacial (GPDA)."
       ],
-      "imagem" : "https://scontent.fbsb3-1.fna.fbcdn.net/v/t1.0-9/s960x960/89549251_2619374544851548_1415581475134242816_o.jpg",
+      "imagem" : "Images/EquipeUFABC.jpg",
       "direcionapagina" : "Historia.html"
     },
     {
