@@ -2,10 +2,10 @@
 {
 nav.menu{
 	width: 100%; 
-	background: linear-gradient(to left, cornflowerblue, #fff); 
+	background: #010133; 
 	padding: 0px; 
 	height: 3EM; 
-	font-family: 'OpenSans-Light'; 
+	font-family: 'Cambria'; 
 	font-size: 30px;
 }
 ul.menus{
@@ -32,14 +32,14 @@ li.home{
 	float: left;
 }
 li.home a:hover{
-	background-color: cornflowerblue;
+	background-color: #010133;
 }
 a.amenu{
 	display: flex; 
 	text-decoration: none; 
 	text-align: center; 
-	background: linear-gradient(to left, cornflowerblue, #fff); 
-	color: black; 
+	background: #010133; 
+	color: white; 
 	height: 2EM; 
 	justify-content: center; 
 	align-items: center; 
@@ -47,7 +47,7 @@ a.amenu{
 }
 label.lblmenu{
 	padding: 5px; 
-	color: black; 
+	color: white; 
 	font-size: 50px; 
 	cursor: pointer; 
 	float: right; 
@@ -62,14 +62,14 @@ input#bt_menu:checked ~ ul.menus{
 div.primeiraHomeOne{
 	width: 100%; 
 	height: auto; 
-	background:  linear-gradient(to top left, #cedefa, #e9f0fc); 
+	background:  #010133; 
 	float: left; 
 	margin-bottom: 0.2%;
 }
 div.primeiraHomeTwo{
 	width: 100%; 
 	height: auto; 
-	background:  linear-gradient(to top left, #cedefa, #e9f0fc); 
+	background:  #010133; 
 	float: left; 
 	margin-bottom: 0.2%;
 }
@@ -96,6 +96,8 @@ p.textoescritoHome{
 	margin-bottom: auto; 
 	letter-spacing: 1px; 
 	font-size: 20px;
+	color: white;
+	font-family: 'Cambria';
 }
 img.imagemHomeOne{
 	width: auto; 
@@ -139,10 +141,11 @@ h1{
 	text-align: center; 
 	font-size: 50px; 
 	letter-spacing: 10px;
+	color: white;
 }
 button{
 	margin-top: 5%; 
-	font-family: 'OpenSans-Light'; 
+	font-family: 'Cambria'; 
 	font-size: 30px; 
 	border-radius: 30px; 
 	padding: 5px 50px; 
@@ -152,7 +155,7 @@ button{
 div.primeiraProj{
 	width: 100%; 
 	height: auto; 
-	background: linear-gradient(to top left, #cedefa, #e9f0fc); 
+	background: #010133; 
 	float: left; 
 	margin-bottom: 0.2%;
 }
@@ -164,6 +167,8 @@ p.textoescritoProj{
 	margin-bottom: auto; 
 	letter-spacing: 1px; 
 	font-size: 20px;
+	color: white;
+	font-family: 'Cambria';
 }
 div.textocompletoProj{
 	width: 84%; 
@@ -204,6 +209,8 @@ p.informacoestecnicasProj{
 	margin-bottom: 4%; 
 	margin-left: auto; 
 	font-size: 2EM;
+	color: white;
+	font-family: 'Cambria';
 }
 p.tituloProj{
 	width: 100%; 
@@ -211,6 +218,8 @@ p.tituloProj{
 	font-size: 50px; 
 	height: auto; 
 	margin-top: 40px;
+	color: white;
+	font-family: 'Cambria';
 }
 p.tituloPagina{
 	width: 50%; 
@@ -225,6 +234,7 @@ p.tituloPagina{
 	display: flex; 
 	align-items: center; 
 	justify-content: center;
+	font-family: 'Cambria';
 }
 p.textoabaixotitulo{
 	width: 80%; 
@@ -235,11 +245,13 @@ p.textoabaixotitulo{
 	margin-left: 10%; 
 	margin-right: 10%; 
 	font-size: 17px;
+	color: white;
+	font-family: 'Cambria';
 }
 div.primeiroPatro{
 	width: 100%; 
 	height: auto; 
-	background-color: #e9f0fc; 
+	background-color: #010133; 
 	float: left; 
 	margin-bottom: 0.2%;
 }
@@ -260,8 +272,9 @@ p.textoescritoPatro{
 	text-align: justify; 
 	margin-bottom: auto; 
 	font-size: 20px; 
-	font-family: 'OpenSans-Light'; 
+	font-family: 'Cambria'; 
 	letter-spacing: 1px;
+	color: white;
 }
 img.imagemPatro{
 	width: 90%; 
@@ -280,12 +293,13 @@ h1.tituloPatro{
 	margin-bottom: 0px; 
 	text-align: center; 
 	font-size: 50px; 
-	font-family: 'OpenSans-Light'; 
+	font-family: 'Cambria'; 
 	letter-spacing: 5px;
+	color: white;
 }
 button.direcionaPatro{
 	margin-top: 5%; 
-	font-family: 'OpenSans-Light'; 
+	font-family: 'Cambria'; 
 	font-size: 30px; 
 	border-radius: 30px; 
 	padding: 5px 50px; 
@@ -304,7 +318,8 @@ p.tituloPagina{
 	margin-right: 25%; 
 	display: flex; 
 	align-items: center; j
-	ustify-content: center;
+	justify-content: center;
+	font-family: 'Cambria';
 }
 p.textoabaixotitulo{
 	width: 80%; 
@@ -315,18 +330,20 @@ p.textoabaixotitulo{
 	margin-left: 10%; 
 	margin-right: 10%; 
 	font-size: 17px;
+	color: white;
+	font-family: 'Cambria';
 }
 }
 
-@media (min-width: 1001px) and (max-width: 2000px)
+@media (min-width: 1001px) and (max-width: 3000px)
 {
 nav.menu{
 	width: 100%; 
-	background: linear-gradient(to left, cornflowerblue, #fff); 
+	background: #010133; 
 	float: left; 
 	padding: 0px; 
 	height: 5EM; 
-	font-family: 'OpenSans-Light';
+	font-family: 'Cambria';
 }
 ul.menuimagem{
 	list-style: none; 
@@ -355,13 +372,13 @@ li.home{
 	float: left;
 }
 li.home a:hover{
-	background-color: cornflowerblue;
+	background-color: #010133;
 }
 a.amenu{
 	display: block; 
 	text-decoration: none; 
 	text-align: center; 
-	color: black;  
+	color: white;  
 	cursor: pointer;
 }
 label.lblmenu{
@@ -370,14 +387,14 @@ label.lblmenu{
 div.primeiraHomeOne{
 	width: 100%; 
 	height: auto; 
-	background: linear-gradient(to top left, #cedefa, #e9f0fc); 
+	background: #010133; 
 	float: left; 
 	margin-bottom: 0.2%;
 }
 div.primeiraHomeTwo{
 	width: 100%; 
 	height: auto; 
-	background: linear-gradient(to top left, #cedefa, #e9f0fc); 
+	background: #010133; 
 	float: left; 
 	margin-bottom: 0.2%;
 }
@@ -403,6 +420,8 @@ p.textoescritoHome{
 	margin-bottom: auto; 
 	letter-spacing: 1px; 
 	font-size: 20px;
+	color: white;
+	font-family: 'Cambria';
 }
 img.imagemHomeOne{
 	width: 40%; 
@@ -440,6 +459,8 @@ h1.tituloHomeOne{
 	text-align: center;
 	font-size: 50px; 
 	letter-spacing: 10px;
+	color: white;
+	font-family: 'Cambria';
 }
 h1.tituloHomeTwo{
 	width: 100%; 
@@ -449,10 +470,12 @@ h1.tituloHomeTwo{
 	text-align: center;
 	font-size: 50px; 
 	letter-spacing: 10px;
+	color: white;
+	font-family: 'Cambria';
 }
 button{
 	margin-top: 3%; 
-	font-family: 'OpenSans-Light'; 
+	font-family: 'Cambria'; 
 	font-size: 30px; 
 	border-radius: 30px; 
 	padding: 5px 50px; 
@@ -462,7 +485,7 @@ button{
 div.primeiraProj{
 	width: 100%; 
 	height: auto; 
-	background: linear-gradient(to top left, #cedefa, #e9f0fc); 
+	background: #010133; 
 	float: left; 
 	margin-bottom: 0.2%;
 }
@@ -474,6 +497,8 @@ p.textoescritoProj{
 	margin-bottom: auto; 
 	letter-spacing: 1px; 
 	font-size: 20px;
+	color: white;
+	font-family: 'Cambria';
 }
 div.textocompletoProj{
 	width: 64%; 
@@ -512,6 +537,8 @@ p.informacoestecnicasProj{
 	height: auto; 
 	margin-bottom: 4%; 
 	margin-left: auto;
+	color: white;
+	font-family: 'Cambria';
 }
 p.tituloProj{
 	width: 100%; 
@@ -519,6 +546,8 @@ p.tituloProj{
 	font-size: 50px; 
 	height: 2px; 
 	margin-top: 10px;
+	color: white;
+	font-family: 'Cambria';
 }
 p.tituloPagina{
 	width: 50%; 
@@ -533,6 +562,7 @@ p.tituloPagina{
 	display: flex; 
 	align-items: center; 
 	justify-content: center;
+	font-family: 'Cambria';
 }
 p.textoabaixotitulo{
 	width: 80%; 
@@ -543,11 +573,13 @@ p.textoabaixotitulo{
 	margin-left: 10%; 
 	margin-right: 10%; 
 	font-size: 17px;
+	color: white;
+	font-family: 'Cambria';
 }
 div.primeiroPatro{
 	width: 100%; 
 	height: auto; 
-	background-color: #e9f0fc; 
+	background-color: #010133; 
 	float: left; 
 	margin-bottom: 0.2%;
 }
@@ -567,8 +599,9 @@ p.textoescritoPatro{
 	text-align: justify; 
 	margin-bottom: auto; 
 	font-size: 20px; 
-	font-family: 'OpenSans-Light'; 
+	font-family: 'Cambria'; 
 	letter-spacing: 1px;
+	color: white;
 }
 img.imagemPatro{
 	width: 40%; 
@@ -586,12 +619,13 @@ h1.tituloPatro{
 	margin-bottom: 10px; 
 	text-align: center;  
 	font-size: 50px; 
-	font-family: 'OpenSans-Light'; 
+	font-family: 'Cambria'; 
 	letter-spacing: 5px;
+	color: white;
 }
 button.direcionaPatro{
 	margin-top: 3%; 
-	font-family: 'OpenSans-Light'; 
+	font-family: 'Cambria'; 
 	font-size: 30px; 
 	border-radius: 30px; 
 	padding: 5px 50px; 
@@ -611,6 +645,7 @@ p.tituloPagina{
 	display: flex; 
 	align-items: center; 
 	justify-content: center;
+	font-family: 'Cambria';
 }
 p.textoabaixotitulo{
 	width: 80%; 
@@ -621,25 +656,28 @@ p.textoabaixotitulo{
 	margin-left: 10%; 
 	margin-right: 10%; 
 	font-size: 17px;
+	color: white;
+	font-family: 'Cambria';
 }
 }
 
 body{
 	margin: 0px; 
 	padding: 0px; 
-	font-family: 'OpenSans-Light'; 
+	font-family: 'Cambria'; 
 	font-size: 20px; 
 	line-height: 30px; 
-	background: #cacaca;
+	background: #010133;
 }
 input#bt_menu{
 	display: none;
 }
 footer{
 	width: 100%; 
-	background: linear-gradient(to left, #c0d4f8, #e9f0fc); 
+	background: #010133; 
 	float: left; 
 	padding: 10px 0px;
+	color: white;
 }
 div.imagemsemtexto{
 	width: 100%; 
@@ -667,11 +705,12 @@ p.titulosobreequipe{
 	display: flex; 
 	align-items: center; 
 	justify-content: center;
+	font-family: 'Cambria';
 }
 div.sobreequipe{
 	width: 100%; 
 	height: auto; 
-	background: linear-gradient(to top left, #cedefa, #e9f0fc); 
+	background: #010133; 
 	float: left; 
 	margin-bottom: 0.2%;
 }
@@ -682,8 +721,9 @@ p.textosobreequipe{
 	margin-left: 8%; 
 	margin-right: 8%; 
 	font-size: 20px; 
-	font-family:"OpenSans-Light"; l
-	etter-spacing: 1px;
+	font-family:"Cambria";
+	letter-spacing: 1px;
+	color: white;
 }
 section{
 	width: 100%; 
@@ -762,7 +802,7 @@ i.fa{
 	font-size: 30px; 
 	vertical-align: middle; 
 	border-radius: 50%; 
-	background-color: cornflowerblue; 
+	background-color: #3a53a3; 
 	width: 45px; 
 	height: 45px; 
 	text-align: center; 
@@ -787,6 +827,7 @@ p.rodapetext{
 	display: inline-block; 
 	font-size: 14px; 
 	vertical-align: center;
+	color: white;
 }
 a.rodapetexto{
 	color: black; 
@@ -794,6 +835,7 @@ a.rodapetexto{
 	font-size: 17px; 
 	background-color: transparent; 
 	display: contents;
+	color: white;
 }
 p.desenvolvidopor{
 	display: block; 
@@ -801,6 +843,7 @@ p.desenvolvidopor{
 	margin-right: auto; 
 	text-align: center; 
 	font-size: 17px;
+	color: white;
 }
 }
 @media (max-width: 700px) 
@@ -809,7 +852,7 @@ i.fa{
 	font-size: 30px; 
 	vertical-align: middle; 
 	border-radius: 50%; 
-	background-color: cornflowerblue; 
+	background-color: #3a53a3; 
 	width: 45px; 
 	height: 45px; 
 	text-align: center; 
@@ -832,6 +875,7 @@ p.rodapetext{
 	display: inline-block; 
 	font-size: 14px; 
 	vertical-align: center;
+	color: white;
 }
 a.rodapetexto{
 	color: black; 
@@ -839,6 +883,7 @@ a.rodapetexto{
 	font-size: 17px; 
 	background-color: transparent; 
 	display: contents;
+	color: white;
 }
 p.desenvolvidopor{
 	display: block; 
@@ -846,5 +891,6 @@ p.desenvolvidopor{
 	margin-right: auto; 
 	text-align: center; 
 	font-size: 17px;
+	color: white;
 }
 }
